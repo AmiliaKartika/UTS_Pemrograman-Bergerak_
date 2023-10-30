@@ -1,4 +1,5 @@
-# UTS_Pemrograman-Bergerak_
+# UTS Pemrograman Bergerak Kelompok 8
+# Sistem Informasi Reguler 5A
 
 1. Amilia Kartika (09031282126055)
 2. Ahmad Hanif Azhari (09031282126082)
